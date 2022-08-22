@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "games-db-9abf6": {
+      "hosting": {
+        "Angular-Games-db": [
+          "games-db-9abf6"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "games-db-9abf6"
+  }
+}
